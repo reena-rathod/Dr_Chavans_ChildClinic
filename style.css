@@ -139,6 +139,28 @@ nav ul li a:hover {
 .service-info p {
     margin-bottom: 0;
 }
+.service-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.service-image img {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.service-description h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.service-description p {
+  font-size: 1em;
+  color: #555;
+}
+
 #about {
   padding: 20px;
   background-color: white;
